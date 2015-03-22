@@ -25,7 +25,7 @@
 #define TURNIP_SERVO_PIN 10
 
 // Overall brightness of light show (0-255)
-#define LED_STRIP_BRIGHTNESS 255
+#define LED_STRIP_BRIGHTNESS 180
 
 // Time for debouncing door switch (ms)
 #define DEBOUNCE_DELAY 50
